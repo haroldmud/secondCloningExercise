@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Project Name
 
 > Description the project.
@@ -11,9 +9,9 @@
 - Frameworks
 - Technologies used
 
-## Live Demo (if available)
+## Live Server link (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Deployment](https://haroldmud.github.io/secondCloningExercise/)
 
 
 ## Getting Started
